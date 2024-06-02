@@ -1,1 +1,1 @@
-# ctf-writeups
+# LuXeria CTF Write-Ups
