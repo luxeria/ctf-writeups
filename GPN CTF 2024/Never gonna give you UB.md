@@ -3,7 +3,7 @@ ctf-event: GPN CTF 2024
 date: 2024-06-01
 ctf-team: luxeria
 ctf-task: Never gonna give you UB
-ctf-category: web
+ctf-category: pwn
 ctf-difficulty: 
 ---
 # Never gonna give you UB
